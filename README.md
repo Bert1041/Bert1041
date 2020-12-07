@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He,Him,His
 - ⚡ Fun fact: ... null
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/Bert1041/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Bert1041&show_icons=true&theme=ayu-mirage&count_private=true)](https://github.com/Bert1041/github-readme-stats)
 
 
