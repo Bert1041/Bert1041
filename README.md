@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+-->
+
 - 🔭 I’m currently working on ...A react-native project
 - 🌱 I’m currently learning ...PHP, Flutter, React-Native
 - 👯 I’m looking to collaborate on ...null
@@ -13,7 +15,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...ishokarobertt@gmail.com
 - 😄 Pronouns: ... He,Him,His
 - ⚡ Fun fact: ... null
--->
-
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Bert1041&count_private=true)
