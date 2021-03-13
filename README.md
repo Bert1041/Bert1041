@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on ...A react-native project
+- 🔭 I’m currently working on ...A Flutter Project
 - 🌱 I’m currently learning ...PHP, Flutter, React-Native
 - 👯 I’m looking to collaborate on ...null
 - 🤔 I’m looking for help with ...null
