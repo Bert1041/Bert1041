@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://miro.medium.com/max/1400/0*gLtDcaZCWN2iwtID" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Robert</h1>
+<h1 align="center">Hi, I'm Robert</h1>
 <h3 align="center">I'm a passionate Softwre Engineer from Nigeria.</h3>
 
 
