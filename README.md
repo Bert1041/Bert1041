@@ -16,8 +16,8 @@
 
 - 📫 How to reach me **ishokarobertt@gmail.com**
 
-- ⚡ Hobby fact **I create Youtube Videos.**
-
+<!-- - ⚡ Hobby fact **I create Youtube Videos.**
+ -->
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
