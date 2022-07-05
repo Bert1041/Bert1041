@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://robertishoka-dev.herokuapp.com/)**
 
 - 📫 How to reach me **ishokarobertt@gmail.com**
 
