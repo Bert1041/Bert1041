@@ -61,7 +61,5 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Bert1041">
-</a>
+![](https://komarev.com/ghpvc/?username=Bert1041&color=blueviolet)
 <a href="https://github.com/Bert1041?tab=followers"><img src="https://img.shields.io/github/followers/Bert1041?label=Followers&style=social" alt="GitHub Badge"></a>
