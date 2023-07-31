@@ -1,15 +1,19 @@
 <a href="#"><img width="100%" height="auto" src="https://miro.medium.com/max/1400/0*gLtDcaZCWN2iwtID" height="175px"/></a>
 
 ## 💫About Me
-- 🔭 I’m currently working on Mobile Development.
+👋 Hello! I'm Robert, a passionate software engineer with expertise in ASP.NET Core, Flutter, and AWS.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+💻 Currently, I'm exploring the world of microservices and building scalable applications.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+<!-- 🚀 Proudly contributed to [notable project 1] and [notable project 2]. -->
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://robertishoka-dev.herokuapp.com/)**
+🌱 Always eager to learn and collaborate on exciting projects. Open to new opportunities!
 
-- 📫 How to reach me **ishokarobertt@gmail.com**
+⚡ When I'm not coding, you can find me Engaging in power bike riding.
+
+<!-- 👨‍💻 All of my projects are available at **[My Portfolio](https://robertishoka-dev.herokuapp.com/)** 
+
+📫 How to reach me **ishokarobertt@gmail.com** -->
 
 <!-- - ⚡ Hobby fact **I create Youtube Videos.**
  -->
